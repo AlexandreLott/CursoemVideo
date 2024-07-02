@@ -5,7 +5,7 @@ i = True
 while i:
     soma += num
     count += 1
-    if  num > maior:
+    if num > maior:
         maior = num
     if num < menor:
         menor = num
